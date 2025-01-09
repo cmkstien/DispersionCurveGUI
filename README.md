@@ -1,5 +1,5 @@
 <img src="GraphicalAbstract.jpg" width=100%> 
 # General
 Code and Paper coming soon - GUI is available at
-# https://colab.research.google.com/github/cmkstien/DispersionCurveGUI/blob/main/PredictingDispersionCurves_December12th.ipynb
+## https://colab.research.google.com/github/cmkstien/DispersionCurveGUI/blob/main/PredictingDispersionCurves_December12th.ipynb
 (see .ipynb file)
